@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris",
+  "description": "High-fidelity, secure workspace utilities and code sandbox running entirely in the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
